@@ -1,0 +1,104 @@
+.navbar { 
+    font-family:"Poppins" !important;
+    background: black !important;
+    color: white !important;
+}
+a{
+    color: white !important;
+
+}
+li a:hover{
+    border-bottom: 1px solid !important;
+    color: #694AD9 !important;
+
+}
+.navbar-brand{
+    font-size: 30px;
+    font-weight: 1000;
+    color: white !important;
+
+}
+.title{
+    font-size: 39px;
+    font-family: "Poppins", sans-serif;
+    font-weight: bolder;
+}
+.title {
+    text-align: center;
+}
+.desc {
+    text-align: center;
+}
+body .home {
+  background: url("../img/bg.jpg") center no-repeat !important;
+  background-size: cover !important;;
+  background: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(10px);
+}
+.home h2{
+  font-size: 46px;
+  letter-spacing: 2px;
+  text-shadow: grey;
+}
+.home p{
+  text-shadow: grey;
+}
+
+
+img {
+  padding: 0;
+  margin: 0;
+}
+.social-links a {
+  font-size: 16px;
+  display: flex;
+  justify-content: center !important;
+  align-items: center !important;
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  line-height: 1;
+  margin-right: 8px;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+.social-links {
+  margin-top: 40px;
+  display: flex;
+}
+.social-links a:hover {
+  background:  #694AD9;
+}
+.social-links {
+  margin-top: 15px;
+}
+.social-links-1 a {
+  font-size: 16px;
+  display: flex;
+  justify-content: center !important;
+  align-items: center !important;
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  line-height: 1;
+  margin-right: 8px;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+.social-links-1 {
+  margin-top: 40px;
+  display: flex;
+}
+.social-links-1 a:hover {
+  background:  #694AD9;
+}
+.social-links-1 {
+  margin-top: 15px;
+}
+button{
+  background:  #694AD9 !important;
+  border-color: #5c3fc6 !important;
+}
+button:hover{
+  background:  #5c3fc6 !important;
+}
